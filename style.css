@@ -14,7 +14,6 @@
 }
 
 body {
-  /* background: var(--background-color); */
   font-family: sans-serif;
   display: flex;
   flex-direction: column;
@@ -124,7 +123,7 @@ i {
 
 .item {
   background: #fff;
-  padding: 20px;
+  padding: 25px;
 }
 
 .item:not(:last-child) {
